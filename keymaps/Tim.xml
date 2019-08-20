@@ -59,6 +59,7 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoFile" />
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
