@@ -32,6 +32,9 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta alt equals" />
+  </action>
   <action id="EditorScrollBottom">
     <keyboard-shortcut first-keystroke="meta down" />
   </action>
@@ -41,6 +44,9 @@
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="meta alt add" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileStructurePopup">
