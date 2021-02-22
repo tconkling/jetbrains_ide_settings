@@ -34,6 +34,7 @@
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta alt minus" />
   </action>
@@ -146,6 +147,7 @@
     <keyboard-shortcut first-keystroke="f8" />
     <keyboard-shortcut first-keystroke="f6" />
   </action>
+  <action id="Terminal.SmartCommandExecution.Debug" />
   <action id="ToggleBookmark" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="meta alt 1" />
