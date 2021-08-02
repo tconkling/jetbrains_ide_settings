@@ -15,5 +15,6 @@
     <mask>*.proto</mask>
     <mask>*.py</mask>
     <mask>*.py, *.proto</mask>
+    <mask>*.md</mask>
   </component>
 </application>
