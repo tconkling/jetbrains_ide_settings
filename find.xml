@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Sales-Analysis'" />
-    <option name="defaultScopeName" value="Project 'Sales-Analysis'" />
-    <option name="SEARCH_SCOPE" value="Project 'Sales-Analysis'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
