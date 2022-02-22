@@ -35,6 +35,10 @@
     <keyboard-shortcut first-keystroke="f3" />
   </action>
   <action id="EditorChooseLookupItemDot" />
+  <action id="EditorCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="meta alt minus" />
   </action>
